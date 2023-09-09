@@ -1,0 +1,9 @@
+My name is Stu; I've been in the purgatory of intro project 
+status for a bit now. I'm past extenuating circumstances and
+happy to be here. I'm interested in motors, e.g. 
+i hand wound a DC motor. There's not much sophistocated 
+about a brushed permenat magenet motor - it's my broken
+record flagship thing. I'd like to learn about BLDC 
+phase firing sequence or just driving them in general.
+I'm interested in control systems beyond my general
+interest there. So - yup - happy to be here.
